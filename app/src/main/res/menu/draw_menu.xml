@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_alarm"
+            android:icon="@drawable/ic_baseline_av_timer_24"
+            android:title="Timer" />
+        <item
+            android:id="@+id/nav_steam"
+            android:icon="@drawable/ic_baseline_videogame_asset_24"
+            android:title="Data Game" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profil" />
+    </group>
+</menu>

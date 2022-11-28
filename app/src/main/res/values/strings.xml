@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tugas6_2018108</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskrpi">Deskripsi</string>
+    <string name="reviewgame">Fifa adalah game bola yang ber-feredasi dari FIFA</string>
+    <string name="price">price</string>
+    <string name="harga_game">harga_game</string>
+    <string-array name="game">
+        <item>Tekken7</item>
+        <item>NBA2K23</item>
+        <item>FIFA2K23</item>
+
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 500.000</item>
+        <item>Rp. 750.000</item>
+        <item>Rp. 500.000</item>
+    </string-array>
+    <string name="deskription_menu">Deskripsi</string>
+    <string name="isi">Steam merupakan platform jual beli game pc terbesar!!!</string>
+    <string name="jenis">jenis-jenis game di dalam STEAM</string>
+    <string name="isi2">Nba23, Fifa23, Tekken7, Dll.</string>
+</resources>
